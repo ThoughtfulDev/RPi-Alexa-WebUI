@@ -22,7 +22,7 @@ This Web UI/Python API does it all for you with a click of a Button, including a
 ### Installing
 1. Clone the Repository
 
-`git clone ...`
+`git clone https://github.com/ThoughtfulDev/RPi-Alexa-WebUI.git`
 
 2. Install the node modules
 
