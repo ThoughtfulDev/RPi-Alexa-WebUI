@@ -1,0 +1,8 @@
+Server/__pycache__
+Server/log/*.log
+Server/*.pyc
+
+UI/node_modules
+UI/*.log
+UI/.DS_Store
+UI/dist
