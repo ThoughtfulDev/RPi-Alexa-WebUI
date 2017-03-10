@@ -17,7 +17,8 @@ This Web UI/Python API does it all for you with a click of a Button, including a
 * Installed and functioning [Alexa Avs Sample App](https://github.com/alexa/alexa-avs-sample-app)
 * Python (included in Raspbian)
 * Flask (`pip install Flask && pip install pyuserinput && pip install -U flask-cors`)
-* NodeJS,NPM (you should already have this, its part of the avs sample app)
+* NodeJS,NPM (you should already have this, its part of the avs sample app - **Upgrade to a recent node Version, raspbian repos are 0.10...**)
+  * `curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -` for latest Node v7
 
 ### Installing
 1. Clone the Repository
