@@ -64,7 +64,7 @@ Move content of UI/dist to your Web Server (you should know how this works...)
 I know this is not perfect and secure and so on but i just needed something to control/restart the Alexa Services so there you go...
 
 ---
-##Screenshots
+## Screenshots
 ![Login](http://i.epvpimg.com/veISbab.png)
 ![Dashboard](http://i.epvpimg.com/IGAdfab.png)
 ![Companion Service](http://i.epvpimg.com/hPt9cab.png)
